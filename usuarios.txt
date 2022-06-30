@@ -1,0 +1,7 @@
+['11111111111', 'Guilherme Orlandi', 'aquidaban', '550', '13560120', ['guizin51@gmail.com'], ['16997545353'], '07/08/2000', 'medico']
+['22222222222', 'Giovana Garcia', 'Toto Leite', '1480', '13570060', ['gi@gmail.com'], ['16999999999'], '03/02/2001', 'Estagi�ra']
+['41111111111', 'Jo�o Silva', 'Dom Pedro ii', '150', '13470102', [], ['16997745440'], '03/04/1970', 'Professor']
+['31111111111', 'John Green', 'Av. S�o Carlos', '666', '13540028', ['john.greenzinho@gmail.com'], ['16997774444'], '05/07/1995', 'Escritor']
+['12345678900', 'Casimiro', 'Rua Dona Alexandrina', '143', '13520030', ['case@gmail.com', 'casimiro@gmail.com'], [], '06/09/1980', 'Youtuber']
+['33333333333', 'Cebolinha', 'Turma da monica', '50', '13560320', ['cebolinha@gmail.com'], ['16997896264'], '07/06/1998', 'Ator']
+['55555555555', 'Ronaldo Oliveira ', 'Carlos Botelho', '130', '13520010', ['ronaldinho@hotmail.com'], [], '03/05/1992', 'Comerciante ']

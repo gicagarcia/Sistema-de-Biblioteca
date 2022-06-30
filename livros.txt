@@ -1,0 +1,3 @@
+['2222222222222', 'S.', 'romance', ['Doug Dorst', 'J J Abrams'], '472']
+['1111111111111', 'A arte da guerra', 'Tratado', ['Sun Tzu'], '140']
+['3333333333333', 'Star Wars: Dark Edition', 'Sci Fi', ['George Lucas', 'Donald Glut', 'Antonio Tibau', 'Alexandre Matias'], '530']

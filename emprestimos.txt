@@ -1,0 +1,3 @@
+{'CPF': '22222222222', 'ISBN': '2222222222222', 'Data de retirada': '18/06', 'Data de devolu��o': '18/07', 'Valor di�rio da multa por atraso': '5 reais'}
+{'CPF': '22222222222', 'ISBN': '3333333333333', 'Data de retirada': '19/06', 'Data de devolu��o': '19/07', 'Valor di�rio da multa por atraso': '5 reais'}
+{'CPF': '33333333333', 'ISBN': '3333333333333', 'Data de retirada': '10/05', 'Data de devolu��o': '10/06', 'Valor di�rio da multa por atraso': '5 reais'}
